@@ -14,6 +14,7 @@ signals:
 
 public slots:
     int mySlot(int add);
+    int myOtherSlot(int add);
 
 };
 
